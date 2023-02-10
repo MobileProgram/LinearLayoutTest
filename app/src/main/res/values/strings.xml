@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayoutTest</string>
+    <string name="user_name">User Name</string>
+    <string name="phone_number">Phone No.</string>
+    <string name="email_id">Email Id</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_submit">SUBMIT</string>
+</resources>
